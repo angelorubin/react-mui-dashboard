@@ -1,10 +1,10 @@
 import React from "react";
-import { Test } from '../../../src/components/test'
+import { Login } from '../../../src/containers/login'
 
 export const App = () => {
   return (
     <>
-      <Test />
+      <Login />
     </>
   );
 };
